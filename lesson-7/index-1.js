@@ -1,0 +1,15 @@
+console.log(Math.PI);
+console.log(Math.sqrt(16));
+console.log(Math.abs(-123));
+console.log(Math.abs(123));
+console.log(Math.ceil(1.5));
+console.log(Math.ceil(1.000001));
+console.log(Math.ceil(1));
+console.log(Math.floor(1.999999));
+console.log(Math.round(1.4));
+console.log(Math.round(1.5));
+console.log(50 + Math.round(Math.random() * 50));
+console.log(Math.round(Math.random() * 50) * 2);
+console.log(Math.min(1, -1));
+console.log(Math.max(1, -1));
+console.log(Math.pow(2, 6));
